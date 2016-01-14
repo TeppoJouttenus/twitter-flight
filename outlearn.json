@@ -5,7 +5,7 @@
     {
       "name" : "scale-flight2015",
       "title" : "Handling the Twitter Scale",
-      "description" : "Learn how Twitter keeps track of metrics for microservices architecture, auctions for mobile ads, geotagged tweets, and more.",
+      "description" : "Learn about keeping track of metrics for microservices architecture, auctions for mobile ads, geotagging for tweets, and more.",
       "privacy" : "private",
       "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/mount-everest.jpg",
       "coverColor" : "#55aae7",
