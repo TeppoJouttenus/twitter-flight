@@ -20,6 +20,6 @@ The locations of geotagged tweets over time are a valuable source for understand
 
 You can follow along with the slides as you watch the talk.
 
-<iframe src="https://www.youtube.com/watch?v=kSEjYP4hXFQ" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/kSEjYP4hXFQ" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://g.twimg.com/dev/flight/2015/keynotes/Flight2015-Fischer_and_Mapbox-Mapping_Millions_of_Tweets.pdf" frameborder="0" allowfullscreen></iframe>

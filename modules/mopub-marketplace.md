@@ -20,6 +20,6 @@ The MoPub Marketplace is a real-time exchange which links billions of auctions d
 
 You can follow along with the slides as you watch the talk.
 
-<iframe src="https://www.youtube.com/watch?v=khprMpxBa04" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/khprMpxBa04" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://g.twimg.com/dev/flight/2015/keynotes/Flight2015-Friedland_Helen-How_The_MoPub_Marketplace_Works.pdf" frameborder="0" allowfullscreen></iframe>

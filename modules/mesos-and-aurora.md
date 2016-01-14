@@ -20,6 +20,6 @@ Twitter has used Aurora and Mesos to grow from only tens of nodes to tens of tho
 
 You can follow along with the slides as you watch the talk.
 
-<iframe src="https://www.youtube.com/watch?v=ST2l0ogYp_Y" frameborder="0" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/ST2l0ogYp_Y" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://g.twimg.com/dev/flight/2015/keynotes/Flight2015-Smith_Joe-Twitters_ProductionScale.pdf" frameborder="0" allowfullscreen></iframe>
