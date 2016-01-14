@@ -1,0 +1,29 @@
+{
+  "olpVersion" : "0.1",
+
+  "paths" : [
+    {
+      "name" : "scale-flight2015",
+      "title" : "Handling the Twitter Scale",
+      "description" : "Learn how Twitter keeps track of metrics for microservices architecture, auctions for mobile ads, geotagged tweets, and more.",
+      "privacy" : "private",
+      "coverImage" : "https://raw.githubusercontent.com/outlearn-content/assets/master/mount-everest.jpg",
+      "coverColor" : "#55aae7",
+      "pages" : [
+        {"page" : "./pages/welcome.md"},
+        {"module" : "observability", "preface" : "We'll cover some of the challenges associated with processing 1.5+ billion metrics every minute to provide visibility into Twitter’s distributed microservices architecture."},
+        {"module" : "mopub-marketplace", "preface" : "MoPub Marketplace handles billions of real-time auctions daily amongst more than 180 bidding platforms. We’ll discuss how the exchange works, how exchanges maximize developer revenue, and take a look at the technologies which make this scale possible."},
+        {"module" : "mesos-and-aurora", "preface" : "This module will offer an operations perspective on the management of a Mesos+Aurora cluster, and cover many of the cluster management best practices that have evolved at Twitter from real-world production experience."},
+        {"module" : "mapping-tweets", "preface" : "Learn about retrieving tweets from the Twitter Streaming API, despeckling, debanding, and de-duplicating the data to reduce distracting artifacts, generating vector map tiles with Tippecanoe, and styling the map with Mapbox Studio, along with some highlights of the resulting map."},
+        {"page" : "./pages/next-steps.md"}
+      ]
+    }
+  ],
+
+  "modules" : [
+    {"olm" : "./modules/observability.md"},
+    {"olm" : "./modules/mopub-marketplace.md"},
+    {"olm" : "./modules/mesos-and-aurora.md"},
+    {"olm" : "./modules/mapping-tweets.md"}
+  ]
+}
