@@ -20,6 +20,6 @@ Every minute Twitter’s Observability stack processes 1.5+ billion metrics in o
 
 You can follow along with the slides as you watch the talk.
 
-<iframe src="https://www.youtube.com/watch?v=SC6XuD1tgcQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=SC6XuD1tgcQ" frameborder="0" allowfullscreen></iframe>
 
 <iframe src="https://g.twimg.com/dev/flight/2015/keynotes/Flight2015-McCaffrey_Katie-Of_the_Order_of_Billions.pdf" frameborder="0" allowfullscreen></iframe>
